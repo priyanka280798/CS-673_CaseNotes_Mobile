@@ -4,9 +4,13 @@ CaseNotes_Mobile
 
 Roster:
 Rini Joseph - Project Manager
+
 Abhishek Thakur - API developer
+
 Deepak - API developer
+
 Priyanka - QA Ananlyst
+
 Prathamesh Ghate - UI/UX engineer
 
 Product Vision:
