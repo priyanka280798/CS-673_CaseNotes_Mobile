@@ -128,5 +128,38 @@ As a pharmacist, I want to use the case notes mobile app, to see the details of 
 Estimated story points - 3
 
 **Notification and Reminders - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
+As a nurse, I expect notifications from doctors and other staff and reminders set for patients; the notification tab should be so clear that 90% of users can spot and access the information in the quickest way possible.
 
+Estimated story points - 3
+ 
+ **Edit/Update Patient Details - As a Case manager, I want to change the patient’s information entered on the system to correct inaccuracies in the report**
+ As a Casemanager, I want to change the patient’s information entered on the system to correct inaccuracies in the report. The information was noted by the nurse when the patient was admitted. The patient’s name is misspelled by the nurse. The patient forgot to mention a health condition they were treated for several years back. Both these errors have to be corrected on the system to maintain an accurate record of the patient’s history.
 
+Estimated story points - 3
+
+**Patient updates - As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress**
+As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress. I conduct these tests at home. My doctor has to be reported about the test results on a monthly basis to monitor my health progress. If my sugar test results indicate an imbalance, the doctor will call me for a visit. I want to receive this notification from my doctor in advance, so I can schedule my visit conveniently.
+
+Estimated story points - 3
+
+**Second opinion with different Doctors - As a patient, I can request a “second opinion” while viewing an appointment summary through my case notes mobile app**
+
+As a patient, I can request a “second opinion” while viewing an appointment summary through my case notes mobile app, so that I can feel confident that I am receiving the best, peer-reviewed treatment possible.
+
+Estimated story points - 3
+
+**Edit Calendar Appointment - As a doctor, I am able to edit a calendar of my patient appointments and my available time slots through my case notes mobile app**
+ As a doctor, I am able to edit a calendar of my patient appointments and my available time slots through my case notes mobile app, so that I can have full control over my work day calendar. 
+ 
+ Estimated story points - 3
+ **Notifications for patient - As a patient, I can be notified via mobile app notification when I have been referred by my doctor and be guided to an appointment set-up flow**
+ 
+  As a patient, I can be notified via mobile app notification when I have been referred by my doctor and be guided to an appointment set-up flow, so that my referral process is as quick and as seamless as possible.
+
+Estimated story points - 3
+
+**View Health Records - As a pharmacist, I want to see the health record of the patient in the mobile app, to validate the medications prescribed**
+
+View Health Records - As a pharmacist, I want to see the health record of the patient in the mobile app, to validate the medications prescribed
+
+Estimated story points - 3
