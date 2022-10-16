@@ -6,22 +6,80 @@ Roster:
 
 Rini Joseph - Project Manager
 
-Abhishek Thakur - API developer
+Abhishek Thakur - Microservice Engineer
 
-Deepak - API developer
+Deepak - Data Architect
 
-Priyanka - QA Ananlyst
+Priyanka - Quality Engineer
 
-Prathamesh Ghate - UI/UX engineer
+Prathamesh Ghate - UI/UX Engineer
 
 Product Vision:
-For healthcare workers(Doctors, nurses, case manager etc) and Patients whose goal is to promote quality patient care through effective communication, The Patient Management System (PMS) is a cloud-based and smartphone-enabled application that will check individual patents, take online appointments, and report to a specific location at a specific time. Unlike the current PMS in which patients go to the hospital to receive their medical reports, patients who use the modified PMS will not only receive their medical reports online, but will also be able to discuss their reports with a specialist, saving them time and increasing patient and doctor satisfaction.
+For healthcare workers(Doctors, nurses, case manager etc) and Patients whose goal is to promote quality patient care through effective communication, The Patient Management System (PMS) is a cloud-based and smartphone-enabled application that will check individual patients, take online appointments, and report to a specific location at a specific time. Unlike the current PMS in which patients go to the hospital to receive their medical reports, patients who use the modified PMS will not only receive their medical reports online, but will also be able to discuss their reports with a specialist, saving them time and increasing patient and doctor satisfaction.
 
 Nearest Vision:
+Our nearest vision is to develop the initial deliverable of case notes mobile app, which will have features that let patients and healthcare professionals (such as doctors, nurses, case managers, etc.) view appointment details. This app will get the details from the APIs exposed by the patient appointment portal. The app will also have a straightforward user interface (UI) that even non-technical users can understand.
 
-Stake holders:
 
-Pivotal tracker:
+STAKE HOLDERS:
+
+1. Doctor
+
+2. Nurse 
+
+3. Case Manager
+
+4. Patient
+
+5. Pharmacist
+
+6. Appointment
+
+7. Developer
+
+
+
+PERSONA DETAILS:
+
+**Laura, a family nurse practitioner**
+ 
+Laura, age 40, is a family nurse practitioner in Chicago, which is among the largest cities in the U.S. She comes from a family where both of her parents were public servants through which they helped a lot of people. She likes interacting with and helping people in whatever way she can. She also volunteers after work. Laura has completed her education at Duke University with a degree in Doctor of Nursing Practice. She started practicing nursing as soon as she graduated and has been doing the job for the past 15 years.
+ 
+She spends most of her time taking care of patients, writing reports on computers, or transcribing written reports into digital software. She finds this part of her job cumbersome and gets frustrated with how much time she must spend managing reports, as she would much rather spend time with her patients.
+ 
+She has experience using various healthcare software. She believes that the use of software technology can help increase time with patients and consistency in managing reports and patient data. Laura is specifically interested in using Case Notes (Mobile App) to manage communication between doctors and nurses, and their patients. She believes using the application is a smoother way to rely on information from doctors to herself and her fellow nurses and then to the patients to ensure that there is no loss of information or miscommunication between each party and that each case is managed effectively.
+
+ 
+*Rita, Pharmacist*
+
+Rita, 35, is a pharmacist. She attended pharmacy school in Puerto Rico. After graduation, she worked for an independent pharmacy that was acquired by CVS. Rita believes in making a difference and cherishes the time she spends getting to know her patients. She demonstrates a strong work ethic and genuine optimism. Rita enjoys communicating with the residents of her neighborhood and hopes to have more chances to influence their lives. It involves more than just moving individuals through the line and filling pill bottles. It involves reminding patients to continue taking their medications on time, dispensing health advice, and ensuring that everyone has had their questions addressed before leaving.
+ 
+Rita is sick of idling her time. She wants techs who are completely trained from the start so she won't have to waste any more time training them. She wants to assist in finding a solution to the issue of recruiting more competent technicians and wonders if there is a breakdown in the hiring process. She also wants a speedier computer system so that she can work more quickly. She might be processing more prescriptions rather than spending time by scrolling through a cumbersome system. Momentum is everything in this job for Rita. She is aware that if she pauses even for a split second, chaos will ensue and she will be left with a huge mess. She needs a faster computer system and better software to keep up with the workload.
+ 
+3. Bernadette,  a Case manager
+
+Bernadette, age  50, is a case manager in the emergency room at Beth Israel Deaconess Hospital in Milton. Before this, she worked at Boston Medical Center with high-risk high-cost patients and transitioned to Melton, which is closer to her home, which is a plus. She has much field experience and practical communication skills across all departments.
+
+As a hospital case manager, she is responsible for coordinating and facilitating patient care. She also serves as a resources nurse and transitional and discharge planner. Interviewing the patient is where her initial assessment starts. She is responsible for making a care plan involving doctors and nurses for related patients. She is delighted that she can give undivided attention to patients for their post-discharge individual needs, even when patients' families are interviewing them. She also does the job of advocating for the patients on behalf of the insurance case manager and ensuring that all the clinical information is correct to move forward with. This clinical information is further used for moving patients from hospital to home or from hospital to rehab. She feels mightily rewarded working as a case manager, as the atmosphere here is very family-type. Doctors here, as well as nurses, do go above and beyond for the patient, and the feedback that I get from the patient always says that they enjoy coming back here. Patients don't want to go to other places, even if they are nearby.
+
+Bernadette has used a lot of applications in the past at her previous jobs as a case manager. She noticed that managing patients' information using multiple screens is very daunting and a waste of time. As she is always busy with the patients, She needs a management system to manage all the data simultaneously and prioritize patients' requirements. She is organized, so she requires organization in complex care needs across time and providers. She directs the patient to get the assessed medically incorrect setting. She needs to communicate with patients regarding insurance to help them, and detailed descriptions, Doctor and Nurse availability of patients' records are required inside a mobile application.
+
+Maxwell,  Doctor
+
+Maxwell, 45, is a doctor. He received his medical degree from university school of medicine and  has been practicing for more than 15 years. He is one of 92th doctors at kalos hospital who specializes in Cardiovascular disease. He is known for both teaching and healing abilities. Also, he is keen on a biography of hippocrates, a Greek physician who lived during the age of Pericles. He keeps detailed track of his patients and appointments. He is very friendly with his patients and also prefers things to be organized. Maxwell communicates with his patients very friendly. He is emotionally intelligent and committed to excellence. He is excellent in time management skills with extraordinary work ethics. He is highly dedicated to patient well-being, which often leads to his hard work and sacrifices.
+
+Maxwell is very dedicated to his work, and he has a very tight schedule. So he wants everything arranged so it will be manageable. Along with this is an expert in his work so he has many regular patients and meets new patients daily. So keeping records of all patients is very difficult for him. So, he wants his time very arranged. So he can check at what time he is free. For all these reasons he wants an application or a management system to manage all the data available to him every time and which can do everything for him. He wants to keep all records of all patients handy, So he can check the past history of their treatment and can give them better service. 
+
+Sarah, Patient
+
+Sarah, 32,  works at a call center (part-time) and is raising her two children (ages 2 years and 6 months). She is in charge of setting medical appointments for the family, and brings her children to the doctor for routine visits. One of her children has recurring chest infections, and requires doctor visits more frequently. Sarah is a non-smoker, and runs a few times a week to stay in shape for 5k’s, which she loves to do about twice a month. Sarah also cares for her aging parents, who need some amount of assistance making sure they have their health needs met. 
+
+Sarah is a working woman who has all the responsibility of her family. In her family, the medical situation is very critical for most of the members. Managing the family and working together is a big task for her, and taking care of their medical needs is another big challenge for her. So to search for the best doctor for them and to book appointments for them is very difficult for her. So she needs an application where she can find the best doctor according to their specialty and rating. And can book appointments which best fit her timings. She books appointments frequently  and makes changes according to her office work, so she wants it handy. She needs a platform where she can solve all her problems and can take care of her family in a manageable way.
+
+
+
+PIVOTL TRACKER:
+
 https://www.pivotaltracker.com/n/projects/2593774
 
 
