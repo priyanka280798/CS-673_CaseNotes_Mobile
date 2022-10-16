@@ -127,7 +127,7 @@ Estimated story points - 3
 **Patient records - Pharmacist need to view the details of the patients in case_notes_mobile app**
 As a pharmacist, I want to use the case notes mobile app, to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
 
-Estimated story points - 3
+Estimated story points - 2
 
 **Notification and Reminders - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
 As a nurse, I expect notifications from doctors and other staff and reminders set for patients; the notification tab should be so clear that 90% of users can spot and access the information in the quickest way possible.
@@ -164,7 +164,7 @@ Estimated story points - 3
 
 View Health Records - As a pharmacist, I want to see the health record of the patient in the mobile app, to validate the medications prescribed
 
-Estimated story points - 3
+Estimated story points - 2
 
 
 **USER SCENARIOS**
@@ -258,3 +258,22 @@ To put all this data in one place, she uses Case Management Application. Also th
 As she got reminder for meeting with patient named George from the application, she interviewed him immediately and got all the details required and moved forward with meeting of insurance company named aetna.
 Bernadette follows organized dataflow. So, for every patient she needs immidiate data search of specific thing like patient records, admitted date, discharge date and other things on tip of finger.
 One day, she had interaction with patient named Sonya. In her case, she had just got discharged from hospital and came for follow-up check up and further treatment. Because of this, Bernadette wants to access name of doctor who operated on her for surgery. With the help of Case management application she got to know about Name of Doctor and Nurses who helped for surgery. As all data was on same windows she had no issue to get names without wasting any time.  She further checked appointment through the same application and did check-in for her.
+
+
+Criteria	Ratings
+You have self-organized into a team. You have joined one of the "Scrum Teams" groups in Canvas.	   5
+You have created a public git repository for your team and submitted the repo URL as the solution to this assignment.	   5
+The README in your git repo clearly lists your team name and roster. The roster includes each team member's name and the role they play on the team.	   5
+Your team has identified articulated a far vision for the product. It is clearly documented in your git repo's README.	   5
+Your team has identified articulated a near vision for the first iteration of the product, which you will build in this project. It is clearly documented in your git repo's README.	   5
+Your team has identified at least three stakeholder types whose needs are fulfilled by your product. They are clearly documented in your git repo's README.	   5
+Your team has constructed a detailed user persona for your real stakeholder. The user persona details are clearly documented in your git repo's README.	   5
+Your team has constructed an initial product backlog. The backlog is stored in Pivotal Tracker. The URL of your backlog is clearly documented in your git repo's README. Course staff members can view your backlog.	   5
+There are at least 10 product backlog items in your product backlog.	   5
+All product backlog items are expressed as excellent user stories.	   5
+Your product backlog is ordered. Your rationale for how you ordered your backlog is clearly documented in your git repo's README.	   5
+You have a Definition of Ready for product backlog items. Your Definition of Ready includes at least these items: a) Title, b) User story opening sentence, c) Additional details, d) Estimated in story points. Your Definition of Ready is clearly documented in your git repo's README.	   5
+Estimate your PBIs, starting at the top of the backlog and working your way down to the bottom. Your backlog with estimated PBIs is stored in Pivotal Tracker. The URL of your backlog is clearly documented in your git repo's README. Course staff members can view your backlog.	   5
+You estimated your PBIs in story points.	   5
+You did a whole team relative size estimating activity. You documented the name of the activity in your README.	   5
+
