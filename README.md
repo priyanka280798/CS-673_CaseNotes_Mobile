@@ -50,13 +50,13 @@ She spends most of her time taking care of patients, writing reports on computer
 She has experience using various healthcare software. She believes that the use of software technology can help increase time with patients and consistency in managing reports and patient data. Laura is specifically interested in using Case Notes (Mobile App) to manage communication between doctors and nurses, and their patients. She believes using the application is a smoother way to rely on information from doctors to herself and her fellow nurses and then to the patients to ensure that there is no loss of information or miscommunication between each party and that each case is managed effectively.
 
  
-*Rita, Pharmacist*
+**Rita, Pharmacist**
 
 Rita, 35, is a pharmacist. She attended pharmacy school in Puerto Rico. After graduation, she worked for an independent pharmacy that was acquired by CVS. Rita believes in making a difference and cherishes the time she spends getting to know her patients. She demonstrates a strong work ethic and genuine optimism. Rita enjoys communicating with the residents of her neighborhood and hopes to have more chances to influence their lives. It involves more than just moving individuals through the line and filling pill bottles. It involves reminding patients to continue taking their medications on time, dispensing health advice, and ensuring that everyone has had their questions addressed before leaving.
  
 Rita is sick of idling her time. She wants techs who are completely trained from the start so she won't have to waste any more time training them. She wants to assist in finding a solution to the issue of recruiting more competent technicians and wonders if there is a breakdown in the hiring process. She also wants a speedier computer system so that she can work more quickly. She might be processing more prescriptions rather than spending time by scrolling through a cumbersome system. Momentum is everything in this job for Rita. She is aware that if she pauses even for a split second, chaos will ensue and she will be left with a huge mess. She needs a faster computer system and better software to keep up with the workload.
  
-3. Bernadette,  a Case manager
+**Bernadette,  a Case manager**
 
 Bernadette, age  50, is a case manager in the emergency room at Beth Israel Deaconess Hospital in Milton. Before this, she worked at Boston Medical Center with high-risk high-cost patients and transitioned to Melton, which is closer to her home, which is a plus. She has much field experience and practical communication skills across all departments.
 
@@ -64,13 +64,13 @@ As a hospital case manager, she is responsible for coordinating and facilitating
 
 Bernadette has used a lot of applications in the past at her previous jobs as a case manager. She noticed that managing patients' information using multiple screens is very daunting and a waste of time. As she is always busy with the patients, She needs a management system to manage all the data simultaneously and prioritize patients' requirements. She is organized, so she requires organization in complex care needs across time and providers. She directs the patient to get the assessed medically incorrect setting. She needs to communicate with patients regarding insurance to help them, and detailed descriptions, Doctor and Nurse availability of patients' records are required inside a mobile application.
 
-Maxwell,  Doctor
+**Maxwell,  Doctor**
 
 Maxwell, 45, is a doctor. He received his medical degree from university school of medicine and  has been practicing for more than 15 years. He is one of 92th doctors at kalos hospital who specializes in Cardiovascular disease. He is known for both teaching and healing abilities. Also, he is keen on a biography of hippocrates, a Greek physician who lived during the age of Pericles. He keeps detailed track of his patients and appointments. He is very friendly with his patients and also prefers things to be organized. Maxwell communicates with his patients very friendly. He is emotionally intelligent and committed to excellence. He is excellent in time management skills with extraordinary work ethics. He is highly dedicated to patient well-being, which often leads to his hard work and sacrifices.
 
 Maxwell is very dedicated to his work, and he has a very tight schedule. So he wants everything arranged so it will be manageable. Along with this is an expert in his work so he has many regular patients and meets new patients daily. So keeping records of all patients is very difficult for him. So, he wants his time very arranged. So he can check at what time he is free. For all these reasons he wants an application or a management system to manage all the data available to him every time and which can do everything for him. He wants to keep all records of all patients handy, So he can check the past history of their treatment and can give them better service. 
 
-Sarah, Patient
+**Sarah, Patient**
 
 Sarah, 32,  works at a call center (part-time) and is raising her two children (ages 2 years and 6 months). She is in charge of setting medical appointments for the family, and brings her children to the doctor for routine visits. One of her children has recurring chest infections, and requires doctor visits more frequently. Sarah is a non-smoker, and runs a few times a week to stay in shape for 5k’s, which she loves to do about twice a month. Sarah also cares for her aging parents, who need some amount of assistance making sure they have their health needs met. 
 
@@ -78,10 +78,55 @@ Sarah is a working woman who has all the responsibility of her family. In her fa
 
 
 
-PIVOTL TRACKER:
+**PIVOTL TRACKER:**
 
 https://www.pivotaltracker.com/n/projects/2593774
 
 
+**rationale for how you ordered your backlog**
+The Backlogs were ordered according product feature priority and its dependency on other features.
+
+**Scheduling appointment - As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app**
+As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app. So that I cannot miss any of the scheduled appointments.
+
+Estimated Story Point - 3
+
+**View appointment - As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes mobile app**
+As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes mobile app, so that I am informed about my work day
+calendar.
+
+Estimated Story Points - 3
+
+**Patient Record - As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app**
+As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app, so that I know what to expect before our appointment.
+
+Estimated Story Points - 3
+
+
+**Patient Record - As a nurse, I want a way for my team members to understand the medical record**
+As a nurse, I want a way for my team members to understand the medical records page so that all authorized users can seamlessly access the records and help the patients.
+
+Estimated story points - 3
+
+**Review appointment - As a patient, I can review my appointment details which contains an automatically generated appointment summary**
+As a patient, I can review my appointment details which contains an automatically generated appointment summary, action items and documents referenced during the appointment via email/webapp, so that I remember exactly what happened during an appointment and I know what to do next to best treat my symptoms.
+
+Estimated story points - 3
+
+**Discharge Reminder - As a case manager, I am expecting reminders for patient’s discharge**
+As a case manager, I am expecting reminders for patient’s discharge; so that I can do further planning with insurance manager and checking records of patients with insurance company for meeting with them.
+
+Estimated story points - 3
+
+**Schedule Time slots - As a patient, I can view any of my doctor’s available time slots through my case notes mobile app**
+As a patient, I can view any of my doctor’s available time slots through my case notes mobile app so that I can schedule an appointment that works for both of us.
+Estimated story points - 3
+
+**Patient records - Pharmacist need to view the details of the patients in case_notes_mobile app**
+As a pharmacist, I want to use the case notes mobile app, to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
+
+Estimated story points - 3
+
+**Notification and Reminders - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
 
 
