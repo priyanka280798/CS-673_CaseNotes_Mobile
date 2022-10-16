@@ -163,3 +163,96 @@ Estimated story points - 3
 View Health Records - As a pharmacist, I want to see the health record of the patient in the mobile app, to validate the medications prescribed
 
 Estimated story points - 3
+
+
+**USER SCENARIOS**
+
+**Pharmacist viewing health records:**
+
+Rita typically has hectic days where she reviews the patients' prescriptions and aids in their continued wellness. Patient Sarah, is visiting CVS to get medicines for his gastrological issues. Rita wants to make sure Sarah’s prescriptions are accurate so she can give her the proper drugs. By making sure Sarah has enough nutrients for two weeks, Rita also helps her to stay on track. Rita reviews the patient, Sarah’s information using the case notes mobile app. Using the smartphone app, Rita can access Sarah’s  basic information and medical records. 
+
+**Pharmacist viewing patient details:**
+
+Rita has a strong sense of commitment to her work and high standards for herself. She supports immunization and always looks out for the patients' well-being, especially in these pandemic times.
+Today Sarah visited the pharmacy to get some supplements. Sarah is a regular visitor at this pharmacy to collect medicines for either her or her family. Sarah enquiries Rita about the vaccinations for her children, Rita would like to use the case_notes mobile app to track the records, get information to confirm if they are potential vaccine candidates.
+
+**Patient using health records:**
+Sarah had a busy week since her father John, who suffers from chronic kidney illness, was taken to the hospital. The suggestion of a kidney transplant was made by the doctor. John has excessive blood sugar and is 65 years old.
+Due to John's failing health, Sarah is unable to decide if a kidney transplant is the best course of action.
+Sarah wants to consult with additional renal experts for a second opinion.
+Sarah wants to use the health record details/summary case notes mobile app so she can present them when she seeks a second opinion from other doctors.
+
+**Doctor viewing appointments details**
+Today Maxwell has an extremely busy schedule. Both his daughter's graduation and certain scheduled operations keep him busy. So that he won't forget any of the appointments, he wants his schedule to be well organized. He may also have scheduled appointments for some of his regular clients today.
+Maxwell wants to make sure he doesn't miss any appointments by using the case notes mobile app.
+
+**Doctor viewing patient’s information using Appointment**
+
+Maxwell is very committed to his career, thus he makes every effort to provide his patients with superior care and service.
+Sarah scheduled her father's appointment with Maxwell for today. She provided a list of his symptoms. Maxwell can view the appointment details, which will include the patients' reported symptoms that were filed by Sarah, by opening the calendar in the application to view his forthcoming appointments. He will therefore be familiar with the basic health details of Sarah's father.
+
+
+**Doctor viewing  upcoming appointments through my profile page**
+
+Maxwell is a skilled physician who gets along well with his patients. He has a highly busy schedule and most of his patients are in very serious condition. In order to avoid missing any of his appointments, he wants to.
+As long as Maxwell is logged in to his profile on the app, he can see a list view of all the appointments he has made using the calendar. This contains the names of the patient and the doctor, the time and date, and, if the appointment is a video call, an opportunity to join. So he double-checks to make sure he isn't skipping any of his appointments.
+
+
+**Patient reviewing an automatically generated appointment summary**
+
+Sarah is a working woman and she is very busy all the time. So she booked a virtual appointment to save the traveling time.
+Sarah has completed a virtual appointment with doctor Maxwell. When she interacts with the Doctor on that appointment, the application displays a pop-up that shows (in this order) an appointment summary, next steps, and documents shared during the appointment (this flow can also be completed similarly in an email that would link the user to the application). So now she remembers exactly what happened during an appointment and she knows what to do next to best treat her symptoms.
+
+**Patient request a “second opinion” while viewing an appointment summary**
+
+Sarah has completed a virtual appointment with doctor Maxwell on application and received the summary but when she was viewing their appointment summary she had some doubt on that report. So, she requests a second opinion. Then Application suggests doctors that specialize in their symptoms for Sarah to choose from and proceed to schedule another virtual appointment with a different doctor. 
+
+
+**Patient notified via mobile app notification when referred by doctor**
+
+Sarah is activated on Application, when she is referred by her doctor Maxwell, then application sends a push notification and/or email to her which notify her that she has been referred to Maxwell and offer an option to her from the notification to quickly launch an appointment set-up flow. This flow can take one of two forms: 
+-  Doctor is activated on Application - this will simply trigger the default make appointment flow and notify the Maxwell within the Application when the appointment has been created
+-  Doctor is not activated on Application - from the Sarah’s side, this looks the same as the previous option, but after finishing the appointment setup flow, this will create a templated email with the her preferred times, symptoms, record, etc, and allow her to review the email in-app before sending it out 
+
+**Patient providing regular update to doctor**
+
+Sarah is diabetics patient and she conducts sugar tests at home and provides her regular updates of sugar test results to her doctor, so he can monitor her health progress. So today when she uploaded the report to the application doctor got notified and He reviewed her report and found an imbalance in her report, So he called Sarah for a visit and notified him to book an appointment for the coming week with his availability so she can schedule her visit conveniently.
+
+**Patient booking appointment**
+
+Sarah needs to book an appointment for his children so she opened the case notes application and selected the doctor from the list and checked the availability of the doctor to match with her availability and she booked the appointment. Then the doctor got notified about the appointment and he confirmed the appointment. Application sent the notification of confirmation to both.
+
+**Nurse Practitioner viewing notifications and reminder**
+
+Laura is a skilled nurse who excels at planning and caring for patients. She is constantly busy caring for a variety of patients and following the doctors' orders.
+Managing instructions from doctors and patients has been increasingly challenging recently due to a rise in patients and the hiring of additional doctors. For the directions and medicines given by the doctors, she must consult written notes. In order to remind the patients about their medical problems, availability, and other basic information, she must also phone them. Because of this, Laura struggles to send out reminders on time and manageably cluttered instructions.
+Laura wants to manage notifications and reminders more intelligently. She wants to check the patients' updates and reminders on her phone. She wants to verify all of the messages from doctors and patient reminders using the case notes mobile application. She can manage the communication between numerous entities with the aid of this.
+
+
+**Nurse Practitioner viewing medical records**
+
+Laura is a skilled nurse who gets along with her coworkers and patients. She oversees patients from many categories and has a very busy schedule. When Sarah attempted to access Nicole's record yesterday but was unable to do so in a timely manner, she discovered that the record had not been kept up to date. Laura wants to access the patient records through the Case Notes Mobile Application and manage, maintain, and update them.
+
+**Case Manager correcting the record of the patient’s history.**
+
+Bernadette takes his work very seriously, and he disapproves of mistakes. He is aware that each error might have a significant negative impact on someone's life.
+When Bernadette opened the information for Sarah's father today, he discovered that Laura had typed the wrong name. Sarah also neglected to reveal his father's health issue, for which he received treatment years ago. Therefore, Bernadette wants to utilize the app to update the information for Sarah's father so that the doctor can treat him by attending to his prior treatment.
+
+
+**Case manager getting patient records at one place**
+As a case manager, Bernadette oversees patient cases. She has made the decision to organize patient cases by looking at insurance providers, speaking with their respective managers, and considering the impact of their past, such as when they first claimed insurance. And is it already paid for that time period?
+Patient George was discharged from the hospital today, and in order to help the insurance processes, she needed information such as when George filed his insurance, whether it is paid on time, whether there are any backlogs, etc.
+Additionally, she inquired about George's condition and how he was feeling at the time, as well as whether any additional operations had been recommended for him.
+She believed that because there were so many patients being discharged, it would take a lot of time and effort to complete this question-and-answer session.
+She uses a case management application to gather all of this information in one location. There are still more of these meetings to be held, and if any of them have reminders, she can use the application right away to arrange them with the patient for the next step in the process.
+
+
+**Case Manager managing patients**
+Bernadette is a case manager, managing cases of patients. She has decided to organize patient cases, by looking at insurance companies to talk with their respective managers and impact of their history like when they claimed the insurance? And is it paid earlier for that period?. 
+Today Patient George was discharged from the hospital, inorder to aid the insurance procedures she had to get details like when did George file his insurance, and is that paid regularly, are there any backlogs etc
+She also asked and took notes on what’s the current condition of George like how is feeling now?, and are there some other procedures prescribed for him?. 
+She felt that it's very time consuming and tedious to do this question answer session as she have to cover many more discharging patients for the same. 
+To put all this data in one place, she uses Case Management Application. Also there are  more such meetings to be done, for every meeting if there is a reminder she can immediately use the application and schedule the meeting with patient for further process.
+As she got reminder for meeting with patient named George from the application, she interviewed him immediately and got all the details required and moved forward with meeting of insurance company named aetna.
+Bernadette follows organized dataflow. So, for every patient she needs immidiate data search of specific thing like patient records, admitted date, discharge date and other things on tip of finger.
+One day, she had interaction with patient named Sonya. In her case, she had just got discharged from hospital and came for follow-up check up and further treatment. Because of this, Bernadette wants to access name of doctor who operated on her for surgery. With the help of Case management application she got to know about Name of Doctor and Nurses who helped for surgery. As all data was on same windows she had no issue to get names without wasting any time.  She further checked appointment through the same application and did check-in for her.
