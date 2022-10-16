@@ -77,10 +77,12 @@ Sarah, 32,  works at a call center (part-time) and is raising her two children (
 Sarah is a working woman who has all the responsibility of her family. In her family, the medical situation is very critical for most of the members. Managing the family and working together is a big task for her, and taking care of their medical needs is another big challenge for her. So to search for the best doctor for them and to book appointments for them is very difficult for her. So she needs an application where she can find the best doctor according to their specialty and rating. And can book appointments which best fit her timings. She books appointments frequently  and makes changes according to her office work, so she wants it handy. She needs a platform where she can solve all her problems and can take care of her family in a manageable way.
 
 **Appointment**
+
 It is possible to get the iOS app "Case Notes" from the App Store. It keeps track of every patient, doctor, appointment, and schedule that occurs at every medical facility. It maintains a number of users, including a case manager, pharmacist, nurse practitioner, and patient. To preserve secrecy, the case manager is allowed to perform operations on more delicate and private papers and modules that contain various pieces of information about doctors and patients. The system facilitates user-level registration of new patients. The hospital staff registers doctors. One can schedule an appointment with a doctor from their patient account, as well as view the doctor's details and all of their scheduled appointments.
 One will also receive the additional benefit of being able to message a doctor about their illness and receive a response if they consent beforehand. In order to schedule an appointment, the patient can access the case notes application, choose a doctor from the list, check the doctor's availability against their own, and then book an appointment. The doctor will then be informed of the appointment and given the opportunity to confirm it. The application will then notify both parties of the confirmation. The app offers the option to also reschedule the appointment.
 
 **Developer**
+
 Clark is a systems software developer, a "data junkie" and for the past couple of years, has been very interested in tracking aspects of his health and performance. Clark wants to track his mood, happiness, sleep quality, and how his eating and exercise habits affect his well-being. Although he only drinks occasionally with friends on the weekend, he would like to cut down on alcohol intake.Clark is now working on mobile application for case management.For case note application, hospital staff came to him for application development. And he is really glad to make it for them.
 
 **PIVOTL TRACKER:**
@@ -89,60 +91,73 @@ https://www.pivotaltracker.com/n/projects/2593774
 
 
 **rationale for how you ordered your backlog**
+
 The Backlogs were ordered according product feature priority and its dependency on other features.
 
 **Scheduling appointment - As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app**
+
 As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app. So that I cannot miss any of the scheduled appointments.
 
 Estimated Story Point - 3
 
-**View appointment - As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes mobile app**
+**View appointment - As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes 
+mobile app**
+
 As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes mobile app, so that I am informed about my work day
 calendar.
 
 Estimated Story Points - 3
 
 **Patient Record - As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app**
+
 As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app, so that I know what to expect before our appointment.
 
 Estimated Story Points - 3
 
 
 **Patient Record - As a nurse, I want a way for my team members to understand the medical record**
+
 As a nurse, I want a way for my team members to understand the medical records page so that all authorized users can seamlessly access the records and help the patients.
 
 Estimated story points - 3
 
 **Review appointment - As a patient, I can review my appointment details which contains an automatically generated appointment summary**
+
 As a patient, I can review my appointment details which contains an automatically generated appointment summary, action items and documents referenced during the appointment via email/webapp, so that I remember exactly what happened during an appointment and I know what to do next to best treat my symptoms.
 
 Estimated story points - 3
 
 **Discharge Reminder - As a case manager, I am expecting reminders for patient’s discharge**
+
 As a case manager, I am expecting reminders for patient’s discharge; so that I can do further planning with insurance manager and checking records of patients with insurance company for meeting with them.
 
 Estimated story points - 3
 
 **Schedule Time slots - As a patient, I can view any of my doctor’s available time slots through my case notes mobile app**
+
 As a patient, I can view any of my doctor’s available time slots through my case notes mobile app so that I can schedule an appointment that works for both of us.
 Estimated story points - 3
 
 **Patient records - Pharmacist need to view the details of the patients in case_notes_mobile app**
+
 As a pharmacist, I want to use the case notes mobile app, to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
 
 Estimated story points - 2
 
 **Notification and Reminders - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
+
 As a nurse, I expect notifications from doctors and other staff and reminders set for patients; the notification tab should be so clear that 90% of users can spot and access the information in the quickest way possible.
 
 Estimated story points - 3
  
  **Edit/Update Patient Details - As a Case manager, I want to change the patient’s information entered on the system to correct inaccuracies in the report**
+ 
  As a Casemanager, I want to change the patient’s information entered on the system to correct inaccuracies in the report. The information was noted by the nurse when the patient was admitted. The patient’s name is misspelled by the nurse. The patient forgot to mention a health condition they were treated for several years back. Both these errors have to be corrected on the system to maintain an accurate record of the patient’s history.
 
 Estimated story points - 3
 
 **Patient updates - As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress**
+
 As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress. I conduct these tests at home. My doctor has to be reported about the test results on a monthly basis to monitor my health progress. If my sugar test results indicate an imbalance, the doctor will call me for a visit. I want to receive this notification from my doctor in advance, so I can schedule my visit conveniently.
 
 Estimated story points - 3
@@ -154,9 +169,11 @@ As a patient, I can request a “second opinion” while viewing an appointment 
 Estimated story points - 3
 
 **Edit Calendar Appointment - As a doctor, I am able to edit a calendar of my patient appointments and my available time slots through my case notes mobile app**
+
  As a doctor, I am able to edit a calendar of my patient appointments and my available time slots through my case notes mobile app, so that I can have full control over my work day calendar. 
  
  Estimated story points - 3
+ 
  **Notifications for patient - As a patient, I can be notified via mobile app notification when I have been referred by my doctor and be guided to an appointment set-up flow**
  
   As a patient, I can be notified via mobile app notification when I have been referred by my doctor and be guided to an appointment set-up flow, so that my referral process is as quick and as seamless as possible.
@@ -188,6 +205,7 @@ Sarah wants to consult with additional renal experts for a second opinion.
 Sarah wants to use the health record details/summary case notes mobile app so she can present them when she seeks a second opinion from other doctors.
 
 **Doctor viewing appointments details**
+
 Today Maxwell has an extremely busy schedule. Both his daughter's graduation and certain scheduled operations keep him busy. So that he won't forget any of the appointments, he wants his schedule to be well organized. He may also have scheduled appointments for some of his regular clients today.
 Maxwell wants to make sure he doesn't miss any appointments by using the case notes mobile app.
 
@@ -245,6 +263,7 @@ When Bernadette opened the information for Sarah's father today, he discovered t
 
 
 **Case manager getting patient records at one place**
+
 As a case manager, Bernadette oversees patient cases. She has made the decision to organize patient cases by looking at insurance providers, speaking with their respective managers, and considering the impact of their past, such as when they first claimed insurance. And is it already paid for that time period?
 Patient George was discharged from the hospital today, and in order to help the insurance processes, she needed information such as when George filed his insurance, whether it is paid on time, whether there are any backlogs, etc.
 Additionally, she inquired about George's condition and how he was feeling at the time, as well as whether any additional operations had been recommended for him.
@@ -253,6 +272,7 @@ She uses a case management application to gather all of this information in one 
 
 
 **Case Manager managing patients**
+
 Bernadette is a case manager, managing cases of patients. She has decided to organize patient cases, by looking at insurance companies to talk with their respective managers and impact of their history like when they claimed the insurance? And is it paid earlier for that period?. 
 Today Patient George was discharged from the hospital, inorder to aid the insurance procedures she had to get details like when did George file his insurance, and is that paid regularly, are there any backlogs etc
 She also asked and took notes on what’s the current condition of George like how is feeling now?, and are there some other procedures prescribed for him?. 
@@ -264,6 +284,7 @@ One day, she had interaction with patient named Sonya. In her case, she had just
 
 
 **Criteria	Ratings**
+
 You have self-organized into a team. You have joined one of the "Scrum Teams" groups in Canvas.	   5
 
 You have created a public git repository for your team and submitted the repo URL as the solution to this assignment.	   5
