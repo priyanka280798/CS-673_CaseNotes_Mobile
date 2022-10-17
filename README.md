@@ -94,13 +94,13 @@ https://www.pivotaltracker.com/n/projects/2593774
 
 The Backlogs were ordered according product feature priority and its dependency on other features.
 
-**Scheduling appointment - As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app**
+**Patient Scheduling appointment - As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app**
 
 As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app. So that I cannot miss any of the scheduled appointments.
 
 Estimated Story Point - 3
 
-**View appointment - As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes 
+**Doctor Viewing appointment - As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes 
 mobile app**
 
 As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes mobile app, so that I am informed about my work day
@@ -108,55 +108,55 @@ calendar.
 
 Estimated Story Points - 3
 
-**Patient Record - As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app**
+**Doctor accessing Patient Record - As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app**
 
 As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app, so that I know what to expect before our appointment.
 
 Estimated Story Points - 3
 
 
-**Patient Record - As a nurse, I want a way for my team members to understand the medical record**
+**Nurse accessing Patient Record - As a nurse, I want a way for my team members to understand the medical record**
 
 As a nurse, I want a way for my team members to understand the medical records page so that all authorized users can seamlessly access the records and help the patients.
 
 Estimated story points - 3
 
-**Review appointment - As a patient, I can review my appointment details which contains an automatically generated appointment summary**
+**Patient Reviewing appointment - As a patient, I can review my appointment details which contains an automatically generated appointment summary**
 
 As a patient, I can review my appointment details which contains an automatically generated appointment summary, action items and documents referenced during the appointment via email/webapp, so that I remember exactly what happened during an appointment and I know what to do next to best treat my symptoms.
 
 Estimated story points - 3
 
-**Discharge Reminder - As a case manager, I am expecting reminders for patient’s discharge**
+**Discharge Reminder for Case Manager - As a case manager, I am expecting reminders for patient’s discharge**
 
 As a case manager, I am expecting reminders for patient’s discharge; so that I can do further planning with insurance manager and checking records of patients with insurance company for meeting with them.
 
 Estimated story points - 3
 
-**Schedule Time slots - As a patient, I can view any of my doctor’s available time slots through my case notes mobile app**
+**Patient Scheduling Time slots - As a patient, I can view any of my doctor’s available time slots through my case notes mobile app**
 
 As a patient, I can view any of my doctor’s available time slots through my case notes mobile app so that I can schedule an appointment that works for both of us.
 Estimated story points - 3
 
-**Patient records - Pharmacist need to view the details of the patients in case_notes_mobile app**
+**Pharmacist viewing Patient records - Pharmacist need to view the details of the patients in case_notes_mobile app**
 
 As a pharmacist, I want to use the case notes mobile app, to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
 
 Estimated story points - 2
 
-**Notification and Reminders - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
+**Notification and Reminders for Nurse - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
 
 As a nurse, I expect notifications from doctors and other staff and reminders set for patients; the notification tab should be so clear that 90% of users can spot and access the information in the quickest way possible.
 
 Estimated story points - 3
  
- **Edit/Update Patient Details - As a Case manager, I want to change the patient’s information entered on the system to correct inaccuracies in the report**
+ **Edit/Update Patient Details - Case Manager - As a Case manager, I want to change the patient’s information entered on the system to correct inaccuracies in the report**
  
  As a Casemanager, I want to change the patient’s information entered on the system to correct inaccuracies in the report. The information was noted by the nurse when the patient was admitted. The patient’s name is misspelled by the nurse. The patient forgot to mention a health condition they were treated for several years back. Both these errors have to be corrected on the system to maintain an accurate record of the patient’s history.
 
 Estimated story points - 3
 
-**Patient updates - As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress**
+**Patient updates to Doctor - As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress**
 
 As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress. I conduct these tests at home. My doctor has to be reported about the test results on a monthly basis to monitor my health progress. If my sugar test results indicate an imbalance, the doctor will call me for a visit. I want to receive this notification from my doctor in advance, so I can schedule my visit conveniently.
 
