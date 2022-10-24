@@ -94,20 +94,20 @@ https://www.pivotaltracker.com/n/projects/2593774
 
 The Backlogs were ordered according product feature priority and its dependency on other features.
 
-**Doctor Viewing appointment **
+**Doctor Viewing appointment**
 
 As a Doctor, I am able to view a calendar of my patient appointment, so that I am informed about the visits which i need to make on a specific day
 
 Estimated Story Point - 3
 
-**Case manager accessing Patient Record **
+**Case manager accessing Patient Record**
 
 As a Case Manager, I should be able to access my patient’s information through their appointment slots, so that I know what to expect before our appointment.
 
 
 Estimated Story Points - 3
 
-**Doctor accessing Patient Record **
+**Doctor accessing Patient Record**
 
 As a doctor, I should be able to access my patient’s information through their appointment slot, so that I know what to expect before our appointment.
 
@@ -115,7 +115,7 @@ As a doctor, I should be able to access my patient’s information through their
 Estimated Story Points - 3
 
 
-**Patient Scheduling appointment **
+**Patient Scheduling appointment**
 
 As a patient, I am able to see a list of my upcoming appointments, So that I cannot miss any of the scheduled appointment
 
@@ -127,31 +127,31 @@ As a case manager, I want to get patient’s record in one place related to admi
 
 Estimated story points - 3
 
-**Patient Reviewing appointment **
+**Patient Reviewing appointment**
 
 As a patient, I can review my appointment details which contains an automatically generated appointment summary, action items and documents referenced during the appointment via email/webapp, so that I remember exactly what happened during an appointment and I know what to do next to best treat my symptoms.
 
 Estimated story points - 3
 
-**Nurse accessing Patient Record **
+**Nurse accessing Patient Record**
 
 As a nurse, I want a way for my team members to understand the medical records page so that all authorized users can seamlessly access the records and help the patients.
  
 Estimated story points - 3
 
-**Discharge Reminder for Case Manager **
+**Discharge Reminder for Case Manager**
 
 As a case manager, I am expecting reminders for patient’s discharge; so that I can do further planning with insurance manager and checking records of patients with insurance company for meeting with them.
 
 Estimated story points - 2
 
-**Patient Scheduling Time slots **
+**Patient Scheduling Time slots**
 
 As a patient, I should be able to view any of my doctor’s available time slots so that I can schedule an appointment that works for both of us.
 
 Estimated story points - 3
  
- **Pharmacist viewing Patient records **
+ **Pharmacist viewing Patient records**
  
 As a pharmacist, I want to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
 
@@ -188,7 +188,7 @@ Estimated story points - 3
 
 Estimated story points - 2
 
-**Notifications for patient **
+**Notifications for patient**
 
  As a patient, I want to be notified when I have been referred by my doctor and be guided to an appointment set-up flow, so that my referral process is as quick and as seamless as possible.
 
