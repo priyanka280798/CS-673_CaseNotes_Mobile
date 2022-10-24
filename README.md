@@ -94,100 +94,113 @@ https://www.pivotaltracker.com/n/projects/2593774
 
 The Backlogs were ordered according product feature priority and its dependency on other features.
 
-**Scheduling appointment - As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app**
+**Doctor Viewing appointment **
 
-As a patient, I am able to see a list of my upcoming appointments through my case notes mobile app. So that I cannot miss any of the scheduled appointments.
+As a Doctor, I am able to view a calendar of my patient appointment, so that I am informed about the visits which i need to make on a specific day
 
 Estimated Story Point - 3
 
-**View appointment - As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes 
-mobile app**
+**Case manager accessing Patient Record **
 
-As a doctor, I am able to view a calendar of my patient appointments and my existing available time slots through my case notes mobile app, so that I am informed about my work day
-calendar.
+As a Case Manager, I should be able to access my patient’s information through their appointment slots, so that I know what to expect before our appointment.
+
 
 Estimated Story Points - 3
 
-**Patient Record - As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app**
+**Doctor accessing Patient Record **
 
-As a doctor, I should be able to access my patient’s information through their appointment slot through my case notes mobile app, so that I know what to expect before our appointment.
+As a doctor, I should be able to access my patient’s information through their appointment slot, so that I know what to expect before our appointment.
+
 
 Estimated Story Points - 3
 
 
-**Patient Record - As a nurse, I want a way for my team members to understand the medical record**
+**Patient Scheduling appointment **
 
-As a nurse, I want a way for my team members to understand the medical records page so that all authorized users can seamlessly access the records and help the patients.
+As a patient, I am able to see a list of my upcoming appointments, So that I cannot miss any of the scheduled appointment
 
 Estimated story points - 3
 
-**Review appointment - As a patient, I can review my appointment details which contains an automatically generated appointment summary**
+**Case Manager viewing Patient Record**
+
+As a case manager, I want to get patient’s record in one place related to admission to hospital and discharge, so that it will become simple for accessing organization data of patients’ history related to medical records and assisted doctors and nurses.
+
+Estimated story points - 3
+
+**Patient Reviewing appointment **
 
 As a patient, I can review my appointment details which contains an automatically generated appointment summary, action items and documents referenced during the appointment via email/webapp, so that I remember exactly what happened during an appointment and I know what to do next to best treat my symptoms.
 
 Estimated story points - 3
 
-**Discharge Reminder - As a case manager, I am expecting reminders for patient’s discharge**
+**Nurse accessing Patient Record **
+
+As a nurse, I want a way for my team members to understand the medical records page so that all authorized users can seamlessly access the records and help the patients.
+ 
+Estimated story points - 3
+
+**Discharge Reminder for Case Manager **
 
 As a case manager, I am expecting reminders for patient’s discharge; so that I can do further planning with insurance manager and checking records of patients with insurance company for meeting with them.
 
-Estimated story points - 3
-
-**Schedule Time slots - As a patient, I can view any of my doctor’s available time slots through my case notes mobile app**
-
-As a patient, I can view any of my doctor’s available time slots through my case notes mobile app so that I can schedule an appointment that works for both of us.
-Estimated story points - 3
-
-**Patient records - Pharmacist need to view the details of the patients in case_notes_mobile app**
-
-As a pharmacist, I want to use the case notes mobile app, to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
-
 Estimated story points - 2
 
-**Notification and Reminders - As a nurse, I expect notifications from doctors and other staff and reminders set for patients**
+**Patient Scheduling Time slots **
+
+As a patient, I should be able to view any of my doctor’s available time slots so that I can schedule an appointment that works for both of us.
+
+Estimated story points - 3
+ 
+ **Pharmacist viewing Patient records **
+ 
+As a pharmacist, I want to see the details of the patient, to identify the vaccine candidates, so that I can promote and conduct proper immunization of patients.
+
+Estimated story points - 3
+
+**Notification and Reminders  for Nurse**
 
 As a nurse, I expect notifications from doctors and other staff and reminders set for patients; the notification tab should be so clear that 90% of users can spot and access the information in the quickest way possible.
-
-Estimated story points - 3
  
- **Edit/Update Patient Details - As a Case manager, I want to change the patient’s information entered on the system to correct inaccuracies in the report**
- 
- As a Casemanager, I want to change the patient’s information entered on the system to correct inaccuracies in the report. The information was noted by the nurse when the patient was admitted. The patient’s name is misspelled by the nurse. The patient forgot to mention a health condition they were treated for several years back. Both these errors have to be corrected on the system to maintain an accurate record of the patient’s history.
 
 Estimated story points - 3
 
-**Patient updates - As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress**
+**Edit/Update Patient Details - Case Manager**
 
-As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress. I conduct these tests at home. My doctor has to be reported about the test results on a monthly basis to monitor my health progress. If my sugar test results indicate an imbalance, the doctor will call me for a visit. I want to receive this notification from my doctor in advance, so I can schedule my visit conveniently.
-
-Estimated story points - 3
-
-**Second opinion with different Doctors - As a patient, I can request a “second opinion” while viewing an appointment summary through my case notes mobile app**
-
-As a patient, I can request a “second opinion” while viewing an appointment summary through my case notes mobile app, so that I can feel confident that I am receiving the best, peer-reviewed treatment possible.
+As a Casemanager, I want to change the patient’s information entered on the system to correct any inaccuracies in the report.
 
 Estimated story points - 3
 
-**Edit Calendar Appointment - As a doctor, I am able to edit a calendar of my patient appointments and my available time slots through my case notes mobile app**
+**Patient updates to Doctor**
 
- As a doctor, I am able to edit a calendar of my patient appointments and my available time slots through my case notes mobile app, so that I can have full control over my work day calendar. 
+As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress.
  
  Estimated story points - 3
  
- **Notifications for patient - As a patient, I can be notified via mobile app notification when I have been referred by my doctor and be guided to an appointment set-up flow**
+ **Second opinion with different Doctors**
  
-  As a patient, I can be notified via mobile app notification when I have been referred by my doctor and be guided to an appointment set-up flow, so that my referral process is as quick and as seamless as possible.
+As a patient, I can request a “second opinion” while viewing an appointment summary, so that I can feel confident that I am receiving the best, peer-reviewed treatment possible.
 
 Estimated story points - 3
 
-**View Health Records - As a pharmacist, I want to see the health record of the patient in the mobile app, to validate the medications prescribed**
+**Edit Calendar Appointment - Doctor**
 
-View Health Records - As a pharmacist, I want to see the health record of the patient in the mobile app, to validate the medications prescribed
+ As a doctor, I am able to edit a calendar of my patient appointments and my available time slots, so that I can have full control over my work day calendar. 
 
 Estimated story points - 2
 
+**Notifications for patient **
 
-**USER SCENARIOS**
+ As a patient, I want to be notified when I have been referred by my doctor and be guided to an appointment set-up flow, so that my referral process is as quick and as seamless as possible.
+
+Estimated story points - 2
+
+**View Health Records - Pharmacistr**
+
+ As a patient, I want to provide my physician with regular updates on my sugar test results, so he can monitor my health progress. 
+
+Estimated story points - 2
+
+**USER SCENARIOS*
 
 **Pharmacist viewing health records:**
 
